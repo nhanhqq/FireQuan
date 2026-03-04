@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Last%20updated%20on-02.26.2026-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Last%20updated%20on-03.05.2026-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/Written%20by-Quang%20Nhan%20Hoang-pink?style=for-the-badge"> 
 </p>
 
